@@ -1,0 +1,40 @@
+# Arquivos do sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Cache
+__pycache__/
+*.pyc
+*.pyo
+.cache/
+
+# Dependências (caso tenha exemplos com código)
+node_modules/
+vendor/
